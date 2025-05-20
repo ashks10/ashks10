@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Singh</h1>
-<h3 align="center">Aspiring Java Backend Developer | Targeting Top-Tier Product Companies</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashks10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashks10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzcwMmtuczloM2NudjhmaGp6NHJ1NzdhMTNla2Zkc3hwanpldzh1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashks10/ashks10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashks10/ashks10/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashishks10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishks10" height="30" width="40" /></a>
